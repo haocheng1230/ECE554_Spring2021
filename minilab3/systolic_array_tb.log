@@ -1,0 +1,36 @@
+
+vsim work.systolic_array_tb
+# vsim work.systolic_array_tb 
+# Start time: 18:43:44 on Feb 04,2021
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading sv_std.std
+# Loading work.systolic_array_tb_sv_unit(fast)
+# Loading work.systolic_array_tb(fast)
+# Loading work.systolic_array(fast)
+# Loading work.tpumac(fast)
+run -all
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# No errors, testcase passed
+# 
+# ** Note: $stop    : /filespace/h/hwang663/ECE554/minilab3/systolic_array_tb.sv(158)
+#    Time: 6105 ns  Iteration: 1  Instance: /systolic_array_tb
+# Break at /filespace/h/hwang663/ECE554/minilab3/systolic_array_tb.sv line 158
+
+
