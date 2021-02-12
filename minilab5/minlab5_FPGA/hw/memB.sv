@@ -44,7 +44,7 @@ module memB
                     else MACBdata[i][j] <= MACBdata[i][j+1];
                 end
             end
-            count++;
+            count <= count + 1;
         end
     end
 
